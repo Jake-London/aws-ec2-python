@@ -1,0 +1,4 @@
+Template Name,Amazon Machine Image,Instance Type,Root Volume Size (GiB),Security Group Name,Zone/Region
+Amazon Linux 2,ami-0947d2ba12ee1ff75,t2.micro,12,A2SecurityGroup,us-east-1
+Ubuntu Server 20.04 LTS,ami-0dba2cb6798deb6d8,t2.micro,10,A2SecurityGroup,us-east-1
+Red Hat Enterprise Linux 8,ami-098f16afa9edf40be,t2.micro,10,A2SecurityGroup,us-east-1
